@@ -42,7 +42,7 @@ Follow these steps to set up the system:
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/DJmistMAGO/chms.git
+    git clone https://github.com/EricaLlena-stack/caree-hotel-management-system.git
     cd chms
     ```
 
@@ -116,7 +116,7 @@ If you are using Laragon, follow these steps:
     php artisan storage:link
     ```
 
-4. Visit your project in the browser at `http://chms.test.com` (or the domain Laragon assigns).
+4. Visit your project in the browser at `https://chms.test.com` (or the domain Laragon assigns).
 
 
 5. Run the following commands simultaneously in your terminal to run the system:
